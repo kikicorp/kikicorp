@@ -1,25 +1,12 @@
-### Kiki Corporation 👋
+### Kiki Corporation 🕹️
 
-Hi, we're a small studio focused on development games for mobile using C# and Unity.
+Hi, we're a small studio (two people) focused on developing games for mobile using C# and Unity.
 
-| Game                              | Platform      | Status                            |
-| :---------------------------------| :-------------| :-------------------------------- |
-| `Crash a Rocket Simulator`        | `Android`     |  [Published](https://www.google.com](https://play.google.com/store/apps/details?id=com.KikiCorporation.CrashARocketSimulator)|
-| `Fantastic Bricks`                | `Android`     | Development                       |
-| `Rock, Paper and Scissors Battle` | `Android`     | Development                       |
+### Products
 
+| Game                              | Platform      | Status                                                                                                          |
+| :---------------------------------| :-------------| :-------------------------------------------------------------------------------------------------------------- |
+| Crash a Rocket Simulator          | `Android`     | [Published](https://play.google.com/store/apps/details?id=com.KikiCorporation.CrashARocketSimulator)            |
+| Fantastic Bricks                  | `Android`     | Development                                                                                                     |
+| Rock, Paper and Scissors Battle   | `Android`     | Development                                                                                                     |
 
-<!--
-**kikicorp/kikicorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

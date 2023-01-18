@@ -12,7 +12,7 @@ Hi, we're a small studio (two people) focused on developing games for mobile usi
 
 ### Maintainers
 
-This account is managed by [@abreulima](https://www.github.com/abreulima) and [@ankaria](https://www.github.com/ankaria)
+This account is managed by [@abreulima](https://www.github.com/abreulima) and [@ankaria](https://www.github.com/ankaria).
 
 ## License
 

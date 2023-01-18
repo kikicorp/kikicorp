@@ -4,7 +4,7 @@ Hi, we're a small studio focused on development games for mobile using C# and Un
 
 | Game                              | Platform      | Status                            |
 | :---------------------------------| :-------------| :-------------------------------- |
-| `Crash a Rocket Simulator`        | `Android`     |  [Published]([https://www.google.com](https://play.google.com/store/apps/details?id=com.KikiCorporation.CrashARocketSimulator))|
+| `Crash a Rocket Simulator`        | `Android`     |  [Published](https://www.google.com](https://play.google.com/store/apps/details?id=com.KikiCorporation.CrashARocketSimulator)|
 | `Fantastic Bricks`                | `Android`     | Development                       |
 | `Rock, Paper and Scissors Battle` | `Android`     | Development                       |
 
